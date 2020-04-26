@@ -1,0 +1,29 @@
+{
+  "name": "Testing-MongoDB",
+  "version": "1.0.0",
+  "description": "CA 2 Eduard Fernando Cuadros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardfc90/Testing-MongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardfc90/Testing-MongoDB/issues"
+  },
+  "homepage": "https://github.com/eduardfc90/Testing-MongoDB#readme",
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
